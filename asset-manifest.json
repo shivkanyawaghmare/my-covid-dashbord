@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-covid-dashbord/static/css/main.13b10bc5.css",
+    "main.js": "/my-covid-dashbord/static/js/main.151f7337.js",
+    "static/js/453.d3535ea3.chunk.js": "/my-covid-dashbord/static/js/453.d3535ea3.chunk.js",
+    "index.html": "/my-covid-dashbord/index.html",
+    "main.13b10bc5.css.map": "/my-covid-dashbord/static/css/main.13b10bc5.css.map",
+    "main.151f7337.js.map": "/my-covid-dashbord/static/js/main.151f7337.js.map",
+    "453.d3535ea3.chunk.js.map": "/my-covid-dashbord/static/js/453.d3535ea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13b10bc5.css",
+    "static/js/main.151f7337.js"
+  ]
+}
